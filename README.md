@@ -1,4 +1,4 @@
-# Agency CMBS Loan Performance Stress Testing Project
+# Agency CMBS Loan Performance Project
 
 An end-to-end credit-risk project that models the timing of delinquency and default in Freddie Mac Small Balance Loan (SBL) securitizations while accounting for payoff as a competing event.
 
